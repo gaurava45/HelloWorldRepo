@@ -1,2 +1,2 @@
 # HelloWorldRepo
-HelloWorld repo
+Test repository for HelloWorld
